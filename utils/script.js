@@ -6,4 +6,5 @@ add(5, 5);
 
 const a1 =5;
 const b1 =6;
+const c1=6;
 
